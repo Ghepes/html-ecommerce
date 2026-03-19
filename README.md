@@ -11,3 +11,7 @@ It's a project Ecommerce almost like Shopify but No PHP No Liquid No Hydrogen No
 If you know how to manage the state of an application without a heavy framework behind it, let's build something amazingly scalable.
 
 
+The project already exists: if you really want to see how a user listed a website you can check: https://charger.uapp.at/
+
+Along with this project:
+Contributors at [https://github.com/Ghepes/html-ecommerce](https://github.com/Ghepes/html-ecommerce)
