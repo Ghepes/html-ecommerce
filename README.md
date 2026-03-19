@@ -1,40 +1,76 @@
-# html-ecommerce
+# 🚀 HTML-Ecommerce: The Serverless Revolution
+
+### *"I'm looking for engineers, not framework assemblers."*
+
+This project is a **100% Serverless Ecosystem** built for raw performance. We are disrupting the e-commerce space by eliminating the massive overhead of PHP, Liquid, or React-based hydration. 
+
+Our architecture treats websites as infinitely scalable static assets, generated dynamically via a powerful dashboard and deployed directly to Edge Storage.
+
+---
+
+## 🛠 The Tech Stack
+We focus on minimal latency and zero-maintenance infrastructure:
+* **Frontend:** Vanilla HTML5, CSS3, JavaScript (ES6+).
+* **Backend:** Google Cloud Functions (Node.js).
+* **Database:** Firestore (JSON-based NoSQL).
+* **Edge & DNS:** Cloudflare.
+* **Storage:** Google Cloud Storage (Bucket) for high-speed static hosting.
+
+---
+
+## 💡 The Vision
+Unlike Shopify or traditional CMS, we don't "render" pages on every request. 
+1.  **Configure:** Users modify their store in a high-performance dashboard.
+2.  **Generate:** The system compiles changes into pure HTML/JS/CSS.
+3.  **Deploy:** The site is pushed to Storage as a static asset, making it unhackable, SEO-friendly, and lightning-fast.
+
+**Live Demo (Storefront example):** [https://charger.uapp.at/](https://charger.uapp.at/)
+
+---
+
+## 🖼 Dashboard & Architecture
+
+### 👤 User Experience
+A streamlined dashboard that allows full control over the e-commerce flow without touching a line of code.
+
+<p align="center">
+  <img width="45%" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/502d5371-951b-4fc8-b619-f1cb401e77a7" />
+  <img width="45%" alt="User Settings" src="https://github.com/user-attachments/assets/efd87090-e963-4913-a063-9e567a56a61c" />
+</p>
+
+### 🎨 Visual Editor & Preview
+Real-time preview and editing of static components with zero lag.
+<img width="100%" alt="Edit Web Preview" src="https://github.com/user-attachments/assets/b4938d68-adb8-4b43-aef1-b304ac55ad6b" />
+
+---
+
+## 🔧 For Developers & Admins
+
+### **Developer Marketplace**
+We aren't just a tool; we are a platform. Developers can:
+* **List & Sell:** Put custom HTML themes up for sale.
+* **Auto-Generator:** Use our **Automatic Dashboard Generator** to transform any static HTML into a manageable template compatible with our engine.
+
+### **Admin Super-Tools**
+Advanced management for high-scale operations:
+* **AI Integration:** Attach Gemini/OpenAI agents via API keys directly to the website.
+* **Communication:** Integrated email chats and support systems.
+* **Mobile Ready:** Automated generation of APK (Android) and ISO models to wrap websites into native-feeling apps.
+
+---
+
+## 🤝 Join the Mission
+The core engine is ready, but the scale is massive. I am looking for collaborators who understand:
+1.  **State Management** in Vanilla JS.
+2.  **Serverless Architecture** optimization.
+3.  **High-Performance** DOM manipulation.
+
+If you are tired of "npm install" for things that can be done in 10 lines of clean code, let's build the future of e-commerce together.
+
+**Main Contributor & Repository:** [https://github.com/Ghepes/html-ecommerce](https://github.com/Ghepes/html-ecommerce)
+
+---
+*Built with ❤️ for performance-driven web.*
 
 
 
-# "I'm looking for engineers, not framework assemblers."
-The project is 100% Serverless (HTML/Vanilla JS/Cloud Functions, JSON Firestore and CloudFlare). No React, no Next.js.
-
-We focus on raw performance, minimal latency and optimized running costs.
-It's a project Ecommerce almost like Shopify but No PHP No Liquid No Hydrogen No React-based: by listing infinitely scalable HTML websites to Storage after the user has executed the desired changes in the dashboard for their website.
-
-If you know how to manage the state of an application without a heavy framework behind it, let's build something amazingly scalable.
-
-
-The project already exists: if you really want to see how a user listed a website you can check: https://charger.uapp.at/
-
-Along with this project:
-Contributors at [https://github.com/Ghepes/html-ecommerce](https://github.com/Ghepes/html-ecommerce)
-
-
-
-# Dashbord user
-<img width="1538" height="927" alt="image" src="https://github.com/user-attachments/assets/502d5371-951b-4fc8-b619-f1cb401e77a7" />
-
-<img width="1575" height="884" alt="image" src="https://github.com/user-attachments/assets/efd87090-e963-4913-a063-9e567a56a61c" />
-
-
-<img width="2216" height="1117" alt="image" src="https://github.com/user-attachments/assets/a79543a0-a961-4a0f-a82e-9413fd71f495" />
-
-<img width="3415" height="1293" alt="image" src="https://github.com/user-attachments/assets/37cb928c-c070-4d7c-90c7-493282c6a301" />
-
-# Edit web preview
-
-<img width="2805" height="1263" alt="image" src="https://github.com/user-attachments/assets/b4938d68-adb8-4b43-aef1-b304ac55ad6b" />
-
-
-# Developer
-Any form of website can be edited, there is also a way for developers to list their own theme to put up for sale to users, and developers have help from the Automatic Dashboard Generator on how to transform it into the correct format.
-
-# Admins: 
-have access to a wide range of tools: from Review connections to attaching AI to the website with an API key or attaching email chats, support and generating APK or ISO models to transform the website into apps.
