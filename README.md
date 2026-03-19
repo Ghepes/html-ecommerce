@@ -28,4 +28,13 @@ Contributors at [https://github.com/Ghepes/html-ecommerce](https://github.com/Gh
 
 <img width="3415" height="1293" alt="image" src="https://github.com/user-attachments/assets/37cb928c-c070-4d7c-90c7-493282c6a301" />
 
+# Edit web preview
 
+<img width="2805" height="1263" alt="image" src="https://github.com/user-attachments/assets/b4938d68-adb8-4b43-aef1-b304ac55ad6b" />
+
+
+# Developer
+Any form of website can be edited, there is also a way for developers to list their own theme to put up for sale to users, and developers have help from the Automatic Dashboard Generator on how to transform it into the correct format.
+
+# Admins: 
+have access to a wide range of tools: from Review connections to attaching AI to the website with an API key or attaching email chats, support and generating APK or ISO models to transform the website into apps.
